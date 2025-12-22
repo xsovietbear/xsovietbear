@@ -30,7 +30,7 @@ I'm a **mid-level IT Support Analyst** with a strong interest in **IT infrastruc
 
 ---
 
-## 🧪 Homelab
+## 🧪 Homelabber!
 
 - Self-hosted virtualization using **Proxmox** (previously VMware ESXi)
 - Windows Server & Linux VMs for testing, learning, and experimentation
